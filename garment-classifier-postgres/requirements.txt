@@ -1,0 +1,20 @@
+# PostgreSQL Garment Classifier Requirements
+
+# Core ML and Image Processing
+torch>=1.9.0
+torchvision>=0.10.0
+clip-by-openai>=1.0
+Pillow>=8.3.0
+numpy>=1.21.0
+
+# PostgreSQL Database
+psycopg2-binary>=2.9.0
+
+# Data Processing
+pandas>=1.5.0
+
+# HTTP Requests for Image Download
+requests>=2.28.0
+
+# Utilities
+tqdm>=4.64.0 

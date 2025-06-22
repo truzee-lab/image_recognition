@@ -1,0 +1,1 @@
+# Examples package for PostgreSQL Garment Classifier 

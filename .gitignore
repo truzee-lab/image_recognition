@@ -1,0 +1,99 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+MANIFEST
+
+# Virtual environments
+.env
+.venv
+env/
+venv/
+ENV/
+env.bak/
+venv.bak/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# Logs
+*.log
+logs/
+
+# Temporary files
+temp/
+tmp/
+*.tmp
+
+# Cache
+cache/
+.cache/
+
+# Database
+*.db
+*.sqlite
+*.sqlite3
+
+# Images (keep reference images but ignore large datasets)
+images/
+test_images/
+test_results/
+garment_catalog/
+garment_catalog_with_images/
+garment_catalog_preserved/
+garment_catalog_metadata/
+test_dataset/
+diverse_test_results_*/
+test_results_*/
+test_title_results/
+title_description_test/
+
+# JSON results (keep summaries but ignore large result files)
+*_results_*.json
+system_status_*.json
+audit_report_*.json
+augmentation_summary_*.json
+enhanced_model_results_*.json
+
+# Downloaded images
+download_summary.json
+
+# Environment variables
+.env
+.env.local
+.env.production
+
+# Credentials
+config.py
+secrets.json
+credentials.json 
